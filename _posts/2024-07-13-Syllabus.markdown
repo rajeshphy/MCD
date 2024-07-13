@@ -1,0 +1,90 @@
+---
+layout: post
+title:  "Syllabus-UG-Sem-III(NEP)"
+date:   2024-07-13 10:47:26 +0530
+categories: lecture
+---
+
+# PHY-MJ-4: Waves and Optics
+
+## Wave Basics (14 Lectures)
+
+- Plane and Spherical Waves
+- Longitudinal and Transverse Waves
+- Plane Progressive (Travelling) Waves
+- Wave Equation
+- Particle and Wave Velocities
+- Differential Equation
+- Pressure of a Longitudinal Wave
+- Energy Transport
+- Intensity of Wave
+- Water Waves: Ripple and Gravity Waves
+- Linearity and Superposition Principle
+- Superposition of Two Collinear Oscillations Having
+  - Equal Frequencies
+  - Different Frequencies (Beats)
+- Graphical and Analytical Methods
+- Lissajous Figures and Their Uses
+- Standing (Stationary) Waves in a String: Fixed and Free Ends
+- Analytical Treatment
+- Phase and Group Velocities
+- Changes with Respect to Position and Time
+- Energy of Vibrating String
+- Transfer of Energy
+- Normal Modes of Stretched Strings
+- Plucked and Struck Strings
+- Melde's Experiment
+- Longitudinal Standing Waves and Normal Modes
+- Open and Closed Pipes
+
+## Wave Optics (6 Lectures)
+
+- Electromagnetic Nature of Light
+- Definition and Properties of Wave Front
+- Huygens Principle
+- Temporal and Spatial Coherence
+- Fermat's Principle
+- Lens and Mirror Formula
+- Laws of Reflection and Refraction
+- Cardinal Points
+
+## Interference (16 Lectures)
+
+- Division of Amplitude and Wavefront
+- Interference in Thin Films
+- Fringes of Equal Inclination (Haidinger Fringes)
+- Fringes of Equal Thickness (Fizeau Fringes)
+- Newton's Rings: Measurement of Wavelength, Measurement of Refractive Index
+- Michelson Interferometer
+- Michelson-Morley Experiment and Its Failure
+- Determination of Wavelength
+- Wavelength Difference
+- Refractive Index
+- Visibility of Fringes
+- Fabry-Perot Interferometer
+
+## Diffraction (16 Lectures)
+
+- Fresnel's Assumptions
+- Fresnel's Half-Period Zones for Plane Wave
+- Explanation of Rectilinear Propagation of Light
+- Theory of a Zone Plate: Multiple Foci of a Zone Plate
+- Fresnel's Integral and Its Applications
+- Fresnel Diffraction Pattern of a Straight Edge, a Slit and a Wire
+- Fraunhofer Diffraction: Single Slit Diffraction, Double Slit Diffraction, Circular Aperture, Multiple Slits
+- Resolving Power of a Telescope
+- Resolving Power of Grating
+- Use of Grating to Produce Monochromatic Light
+
+## Polarization (8 Lectures)
+
+- Polarization by Reflection
+- Brewster's Law
+- Double Refraction
+- Nicol Prism
+- Ordinary and Extraordinary Refractive Indices
+- Retardation Plate: λ/2 and λ/4 Plates
+- Babinet Compensator
+- Description of Linear, Circular, and Elliptical Polarization
+- Production and Detection of Plane, Circular, and Elliptically Polarized Light
+- Optical Activity
