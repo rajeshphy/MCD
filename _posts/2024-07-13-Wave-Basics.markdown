@@ -15,27 +15,27 @@ where $$v$$ is the speed of the wave and $$\psi$$ is the wave function. $$\nabla
 
 - Laplacian in Rectangular Coordinates
 
-$$ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $$
+  $$ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $$
 
-where $$x, y, z$$ are the spatial coordinates as shown in figure below:
+  where $$x, y, z$$ are the spatial coordinates as shown in figure below:
 
-<img src="/MCD/assets/img/Math/Rectangular-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
+  <img src="/MCD/assets/img/Math/Rectangular-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 - Laplacian in Cylindrical Coordinates
 
-$$ \nabla^2 = \frac{1}{r} \frac{\partial}{\partial r} \left( r \frac{\partial }{\partial r} \right) + \frac{1}{r^2} \frac{\partial^2}{\partial \phi^2} + \frac{\partial^2}{\partial z^2} $$
+  $$ \nabla^2 = \frac{1}{r} \frac{\partial}{\partial r} \left( r \frac{\partial }{\partial r} \right) + \frac{1}{r^2} \frac{\partial^2}{\partial \phi^2} + \frac{\partial^2}{\partial z^2} $$
 
-where $$r, \phi, z$$ are the spatial coordinates as shown in figure below:
+  where $$r, \phi, z$$ are the spatial coordinates as shown in figure below:
 
-<img src="/MCD/assets/img/Math/Cylindirical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
+  <img src="/MCD/assets/img/Math/Cylindirical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 - Laplacian in Spherical Coordinates
 
-$$ \nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial }{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial }{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2} $$
+  $$ \nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial }{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial }{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2} $$
 
-where $$r, \theta, \phi$$ are the spatial coordinates as shown in figure below:
+  where $$r, \theta, \phi$$ are the spatial coordinates as shown in figure below:
 
-<img src="/MCD/assets/img/Math/Spherical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
+  <img src="/MCD/assets/img/Math/Spherical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 ## Types of Waves
 
@@ -43,9 +43,13 @@ where $$r, \theta, \phi$$ are the spatial coordinates as shown in figure below:
 
 - **Electromagnetic Waves**: These waves do not require a medium for their propagation. Examples include light waves, radio waves, and microwaves.
 
-- **Transverse Waves**: In these waves, the particles of the medium vibrate perpendicular to the direction of wave propagation. Examples include light waves and water waves.
+- **Transverse Waves**: In these waves, the particles of the medium vibrate perpendicular to the direction of wave propagation. Examples include light waves and water waves. Figure below shows the transverse wave:
 
-- **Longitudinal Waves**: In these waves, the particles of the medium vibrate parallel to the direction of wave propagation. Examples include sound waves and seismic waves.
+  <img src="/MCD/assets/img/Waves/Transverse.png" alt="Wave Properties" class="my-custom-class" style="max-width:100%; height:auto;">
+
+- **Longitudinal Waves**: In these waves, the particles of the medium vibrate parallel to the direction of wave propagation. Examples include sound waves and seismic waves. Figure below shows the longitudinal wave:
+
+    <img src="/MCD/assets/img/Waves/Longitudinal.png" alt="Wave Properties" class="my-custom-class" style="max-width:100%; height:auto;">
 
 - **Progressive Waves**: These waves propagate in a single direction. Examples include plane waves and spherical waves.
 
@@ -55,8 +59,13 @@ where $$r, \theta, \phi$$ are the spatial coordinates as shown in figure below:
 
 - **Resonant Waves**: These waves are characterized by a specific frequency at which they resonate. Examples include the vibrations of a tuning fork and the oscillations of a pendulum at its natural frequency.
 
+- **Polarized Waves**: These waves have oscillations in a specific direction. Examples include light waves and water waves. Figure below shows the polarized wave:
+
+  <img src="/MCD/assets/img/Waves/Polarized-Light.png" alt="Wave Properties" class="my-custom-class" style="max-width:100%; height:auto;">
+
 
 ## Wave Properties
+
 
 - **Amplitude**: The maximum displacement of a wave from its equilibrium position.
 
@@ -97,7 +106,18 @@ Another general form of the wave equation in terms of imaginary numbers is given
 
 $$ \psi(x, t) = A e^{i(kx - \omega t + \phi)} $$
 
-where $$i=\sqrt{-1}$$ is the imaginary unit.
+where $$i=\sqrt{-1}$$ is the imaginary unit. These waves are called Plane Waves as they propagate in a single direction making a plane wavefront as shown in figure below:
+
+<img src="/MCD/assets/img/Waves/Plane.png" alt="Wave Properties" class="my-custom-class" style="max-width:100%; height:auto;">
+
+The wave equation for spherical waves is given by
+
+$$ \psi(r, t) = \frac{A}{r} e^{i(kr - \omega t + \phi)} $$
+
+where $$r$$ is the distance from the source. These waves are called Spherical Waves as they propagate in all directions from a point source as shown in figure below:
+
+<img src="/MCD/assets/img/Waves/Spherical.png" alt="Wave Properties" class="my-custom-class" style="max-width:100%; height:auto;">
+
 
 
 ---
