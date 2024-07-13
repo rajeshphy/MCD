@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Syllabus-UG-Sem-III(NEP)"
-date:   2024-07-13 10:47:26 +0530
+date:   2024-06-13 10:47:26 +0530
 categories: lecture
 ---
 
