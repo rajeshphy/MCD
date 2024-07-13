@@ -17,19 +17,25 @@ where $$v$$ is the speed of the wave and $$\psi$$ is the wave function. $$\nabla
 
 $$ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $$
 
-where $$x, y, z$$ are the spatial coordinates.
+where $$x, y, z$$ are the spatial coordinates as shown in figure below:
+
+<img src="/MCD/assets/img/Math/Rectangular-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 - Laplacian in Cylindrical Coordinates
 
 $$ \nabla^2 = \frac{1}{r} \frac{\partial}{\partial r} \left( r \frac{\partial }{\partial r} \right) + \frac{1}{r^2} \frac{\partial^2}{\partial \phi^2} + \frac{\partial^2}{\partial z^2} $$
 
-where $$r, \phi, z$$ are the spatial coordinates.
+where $$r, \phi, z$$ are the spatial coordinates as shown in figure below:
+
+<img src="/MCD/assets/img/Math/Cylindirical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 - Laplacian in Spherical Coordinates
 
 $$ \nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial }{\partial r} \right) + \frac{1}{r^2 \sin \theta} \frac{\partial}{\partial \theta} \left( \sin \theta \frac{\partial }{\partial \theta} \right) + \frac{1}{r^2 \sin^2 \theta} \frac{\partial^2}{\partial \phi^2} $$
 
-where $$r, \theta, \phi$$ are the spatial coordinates.
+where $$r, \theta, \phi$$ are the spatial coordinates as shown in figure below:
+
+<img src="/MCD/assets/img/Math/Spherical-C.png" alt="Interaction Process" class="my-custom-class" style="max-width:100%; height:auto;">
 
 ## Types of Waves
 
