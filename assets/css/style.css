@@ -1,3 +1,34 @@
+/* Center the Mermaid chart on the page */
+.mermaid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto; /* Center with margin */
+  max-width: 100%; /* Responsive width */
+}
+
+/* Optional: Style Mermaid SVGs */
+.mermaid svg {
+  width: 100%;
+  max-width: 600px; /* Limit the maximum width of the diagram */
+  height: auto;
+}
+
+/* Optional: Add custom styles for specific diagram elements */
+.mermaid .label {
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+}
+
+.mermaid .node rect {
+  fill: #e0e0e0;
+  stroke: #000;
+  stroke-width: 2px;
+}
+
+
+
+
 /* General Styles */
 body {
   font-family: Arial, sans-serif;
